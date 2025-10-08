@@ -51,6 +51,6 @@ Its architecture ensures seamless integration between product management, analyt
 - **Data Storage (SQLite DB):** Local structured storage with automated backups and integrity checks  
 - **Integration Layer (XML / API):** Enables synchronization and import/export between all modules  
 
-![GXG Store Architecture](https://github.com/GeorgeMicu2024/GXG-Store/blob/main/gxg_store_architecture.png)
+![GXG Store Architecture](https://github.com/GeorgeMicu2024/GXG-Store/blob/main/GXG.png)
 
 _This design enables continuous data accuracy, reduces manual input by over 70%, and improves decision-making speed by 20%._
